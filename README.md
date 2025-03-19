@@ -4,9 +4,9 @@
 </p>
 
 #### *In this tutorial, we will:*
-*- Secure and manage identities using Microsoft Entra ID.*
+*•	Secure and manage identities with Microsoft Entra ID.*
 
-*- Implement and oversee users and groups.*
+*•	Create and oversee users and groups.*
 
 #### Tasks:
  1. Create a Microsoft Entra ID tenant.
